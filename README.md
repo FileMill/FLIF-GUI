@@ -1,4 +1,4 @@
-<img src="http://flif.info/img/flif.png" width=111/>
+<img src="https://filemill.net/res/4/FileMill.logo.png" width=111/>
 
 # FLIF-GUI
 Front end for FLIF: free lossless image format.
