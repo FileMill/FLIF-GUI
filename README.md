@@ -1,6 +1,6 @@
 # FLIF-GUI
 Front end for FLIF: free lossless image format.
 
-https://github.com/FLIF-hub/FLIF
+Command-line tool: https://github.com/FLIF-hub/FLIF
 
-https://FileMill.net
+Built with XML, using https://FileMill.net.
