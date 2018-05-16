@@ -1,3 +1,4 @@
+<img src="http://flif.info/img/flif.png"/>
 # FLIF-GUI
 Front end for FLIF: free lossless image format.
 * Drag & drop
