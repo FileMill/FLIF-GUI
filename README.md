@@ -2,6 +2,7 @@
 
 # FLIF-GUI
 Front end for FLIF: free lossless image format.
+## Windows installer + FLIF Windows binaries
 * Drag & drop
 * Batch processing
 * Parallel processing
