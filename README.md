@@ -1,7 +1,7 @@
 # FLIF-GUI
 Front end for FLIF: free lossless image format.
 
-Drag & drop, batch processing, parallel processing, size statistics.
+Drag & drop . Batch processing . Parallel processing . Size statistics
 ***
 Built with XML, using https://FileMill.net.
 
