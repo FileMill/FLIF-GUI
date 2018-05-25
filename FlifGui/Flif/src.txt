@@ -1,0 +1,4 @@
+Flif is licenced under the LGPLv3+.
+
+Flif.exe was built for x64 Windows, using cl.exe, from:
+https://github.com/FLIF-hub/FLIF/releases/tag/v0.3

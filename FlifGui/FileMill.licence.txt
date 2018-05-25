@@ -1,0 +1,51 @@
+FileMill licence, version 1.
+Usage, modification, and redistribution of FileMill are, each of them, subject to the acceptation of all the terms of this licence agreement.
+
+Licence agreement between sylde.net (owner of FileMill) and the user of FileMill -you-.
+Acceptation of this licence grants you the following rights:
+
+
+USAGE RIGHTS
+FileMill usage is free, for personal or commercial use, no matter which command line tool (paid/free/...) it is being used with.
+
+
+REDISTRIBUTION RIGHTS
+FileMill is free to redistribute, as long as all of the command line tools listed in FileMill.xml are publicly available for no charge and for everyone on the internet.
+Please contact@FileMill.net if you need to redistribute FileMill for a command line tool that does not meet the previous requirement.
+
+Redistribution is only allowed as a whole, with all FileMill files included:
+FileMill.exe (may be renamed)
+FileMill.licence.txt
+FileMill.tutorial.xml
+FileMill.xml
+For example, you may not redistribute the FileMill.xml alone (even if modified or renamed), but only with the other FileMill files, including this licence.
+
+Redistribution is only allowed if all the terms of this licence are respected (in particular: modification rights).
+By redistributing other files (command line tools, FileMill.logo.png, ...) alongside FileMill, you accept taking full responsibility for their redistribution, and that sylde.net cannot be held responsible for any issue that may occur with that.
+
+
+MODIFICATION RIGHTS
+The contents of FileMill.xml can be modified. The modified FileMill.xml file remains under the scope of this licence: it cannot be redistributed without meeting the requirements of this licence.
+No other modification is allowed (in particular, file contents should never be modified). Please contact@FileMill.net if you whish a customized version of FileMill.
+
+You may, if you whish, rename the FileMill.exe file. In that case, we recommand renaming FileMill.exe.config accordingly. No other file should be renamed.
+The renamed files remain under the scope of this licence, and their contents should not be modified.
+
+
+All other rights, concerning FileMill files, their names, and their contents, remain the exclusive property of sylde.net.
+
+
+UPDATES
+The user agrees that the rights granted by this licence are only valid for a specific version of FileMill, and that using or redistributing another version of FileMill will require the acceptation of the accompanying licence.
+
+
+LIMITATION OF LIABILITY
+FileMill is provided as it is, without any warranty.
+In particular (but not exclusively), there are no warranties that FileMill is exempt of bugs.
+The acceptation of this licence by the user implies agreeing, for the user, to not issue any claim against sylde.net (including, but not exclusively, in case of loss of data).
+
+Sylde.net cannot be held responsible for any issue occuring with the command line tools accompanying FileMill: these tools are not linked in any way with sylde.net, and do not fall into the scope of this licence.
+
+
+PATENT CLAIMS
+The acceptation of this licence by the user implies agreeing, for the user, to not issue any patent claim against sylde.net.

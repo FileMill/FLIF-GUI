@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<appTitle>FLIF-GUI 1.0</appTitle>
+
+	<appLink text="gitHub" url="https://github.com/FileMill/FLIF-GUI"/>
+	
+	<logoPng>flif/flif.png</logoPng>
+
+	<defaultTargetFolder></defaultTargetFolder>
+  
+	<presets>
+  
+		<preset name="fast" parallelisationLevel="0" isDefault="true">
+	
+			<supportedFiles>
+	  
+				<inputFile extension=".png" command="flif/flif.exe -E0 %inputFile% %outputFile%" link="http://flif.info" output=".flif" comment="0.3"/>
+				<inputFile extension=".pnm"/>
+				<inputFile extension=".ppm"/>
+				<inputFile extension=".pgm"/>
+				<inputFile extension=".pbm"/>
+				<inputFile extension=".pam"/>
+			</supportedFiles>
+		</preset>
+  
+		<preset name="default" isDefault="true">
+	
+			<supportedFiles>
+	  
+				<inputFile extension=".png" command="flif/flif.exe -E60 %inputFile% %outputFile%"/>
+				<inputFile extension=".pnm"/>
+				<inputFile extension=".ppm"/>
+				<inputFile extension=".pgm"/>
+				<inputFile extension=".pbm"/>
+				<inputFile extension=".pam"/>
+			</supportedFiles>
+		</preset>
+  
+		<preset name="best">
+	
+			<supportedFiles>
+	  
+				<inputFile extension=".png" command="flif/flif.exe -E100 %inputFile% %outputFile%"/>
+				<inputFile extension=".pnm"/>
+				<inputFile extension=".ppm"/>
+				<inputFile extension=".pgm"/>
+				<inputFile extension=".pbm"/>
+				<inputFile extension=".pam"/>
+			</supportedFiles>
+		</preset>
+  
+		<preset name="decode">
+	
+			<supportedFiles>
+	  
+				<inputFile extension=".flif" command="flif/flif.exe -d %inputFile% %outputFile%" output=".png"/>
+			</supportedFiles>
+		</preset>
+	</presets>
+</settings>
+<!--Place your FileMill.xml file alongside FileMill.exe.
+Place your command line tool also near FileMill.exe (it may also be in a subfolder -bin in this example-).
+
+Check their licence terms before redistributing command line tools alongside your front end app!
+You may optionally add a FileMill.txt file,
+and fill it with content that should be displayed if a command line tool is missing.
+That may prove usefull if you want your users to manually download
+some command line tools instead of redistributing them yourself.
+
+Use the resulting tool for yourself, or package the whole thing in a .zip or in an installer,
+put it online, and let others download it!
+Once you're ready, you're welcome to write to contact@sylde.net,
+in order to get your front end tool referenced on the FileMill web page.
+
+Please read FileMill.licence.txt for details about FileMill, usage, and redistribution.-->

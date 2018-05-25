@@ -6,7 +6,7 @@ Front end for FLIF: free lossless image format.
 * Batch processing
 * Parallel processing
 * Size statistics
-## Windows installer + FLIF Windows binaries
+## Windows installer + FLIF x64 Windows binary
 ***
 Built with XML, using [FileMill](https://FileMill.net).
 
