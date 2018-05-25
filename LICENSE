@@ -1,7 +1,7 @@
-The FileMill.exe files has a special licence (see FileMill.licence.txt for all details).
-It allows free usage without any restriction, free redistribution as long as it is being used with freely available command-line tools.
+FLIF files are licenced under the LGPLv3+. Check https://github.com/FLIF-hub/FLIF.
 
-The command line tools used in this project, and the files accompanying them -example: source code-, have their own licence.
+The FileMill.exe file has a special licence (see FileMill.licence.txt for all details).
+It allows free usage without any restriction, free redistribution as long as it is being used with freely available command-line tools.
 
 The other files of this project are licenced under the MIT License:
 
