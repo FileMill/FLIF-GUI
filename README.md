@@ -7,7 +7,7 @@
 * Parallel processing
 * Size statistics
 ## Windows installer + FLIF x64 Windows binary
-***
+
 Built with XML, using [FileMill](https://FileMill.net).
 
 Command-line tool: [FLIF](https://github.com/FLIF-hub/FLIF).
