@@ -17,7 +17,7 @@ SetupIconFile=FileMill.ico
 ShowLanguageDialog=no
 AllowCancelDuringInstall=no
 PrivilegesRequired=lowest
-OutputBaseFilename=FLIF-GUI 0.3 Setup
+OutputBaseFilename=FLIF-GUI.0.3.Setup
 
 [Files]
 Source: "FlifGui\*"; DestDir: "{app}"; Flags: overwritereadonly ignoreversion recursesubdirs
