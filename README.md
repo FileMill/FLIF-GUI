@@ -1,7 +1,7 @@
 <img src="https://filemill.net/res/4/FileMill.logo.png" width=111/>
 
 # FLIF-GUI
-Front end for FLIF: free lossless image format.
+## Front end for FLIF: free lossless image format.
 * Drag & drop
 * Batch processing
 * Parallel processing
