@@ -21,7 +21,7 @@ FileMill.xml
 For example, you may not redistribute the FileMill.xml alone (even if modified or renamed), but only with the other FileMill files, including this licence.
 
 Redistribution is only allowed if all the terms of this licence are respected (in particular: modification rights).
-By redistributing other files (command line tools, FileMill.logo.png, ...) alongside FileMill, you accept taking full responsibility for their redistribution, and that sylde.net cannot be held responsible for any issue that may occur with that.
+By redistributing other files (command line tools, logos, ...) alongside FileMill, you accept taking full responsibility for their redistribution, and that sylde.net cannot be held responsible for any issue that may occur with that.
 
 
 MODIFICATION RIGHTS
