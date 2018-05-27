@@ -1,6 +1,6 @@
 [Setup]
 AppName=FLIF-GUI
-AppVerName=FLIF-GUI 1.0
+AppVerName=FLIF-GUI 0.3
 AppPublisher=Sylde.net
 AppPublisherURL=http://sylde.net
 DefaultDirName={localappdata}\FLIF-GUI
@@ -17,7 +17,7 @@ SetupIconFile=FileMill.ico
 ShowLanguageDialog=no
 AllowCancelDuringInstall=no
 PrivilegesRequired=lowest
-OutputBaseFilename=FLIF-GUI 1.0 Setup
+OutputBaseFilename=FLIF-GUI 0.3 Setup
 
 [Files]
 Source: "FlifGui\*"; DestDir: "{app}"; Flags: overwritereadonly ignoreversion recursesubdirs

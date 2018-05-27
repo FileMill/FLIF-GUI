@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-	<appTitle>FLIF-GUI 1.0</appTitle>
+	<appTitle>FLIF-GUI 0.3</appTitle>
 
 	<appLink text="gitHub" url="https://github.com/FileMill/FLIF-GUI"/>
 	
